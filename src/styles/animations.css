@@ -1,0 +1,40 @@
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes float {
+  0% { transform: translateY(0px); }
+  50% { transform: translateY(-20px); }
+  100% { transform: translateY(0px); }
+}
+
+.animate-fadeIn {
+  animation: fadeIn 1s ease-out forwards;
+}
+
+.animate-float {
+  animation: float 6s ease-in-out infinite;
+}
+
+.hover-glow {
+  transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.hover-glow:hover {
+  box-shadow: 0 0 25px rgba(147, 51, 234, 0.7);
+  transform: translateY(-5px);
+}
+
+@font-face {
+  font-family: 'archiiv';
+  src: url("https://s3.amazonaws.com/arena_images-temp/uploads%2Ff958a69d-42c8-4ee2-8f8b-0cad706750de%2FSauce+Tomato.otf");
+  font-display: swap;
+}
+
+.gradient-text {
+  background: linear-gradient(135deg, #c084fc 0%, #7c3aed 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
