@@ -2,7 +2,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://archiiv.org">
     <img src="https://d2w9rnfcy7mm78.cloudfront.net/36172125/original_12748c4c55e15261c791f3474b33f02a.png?1745347261?bc=0" alt="Logo" width="80" height="100">
   </a>
   <h3 align="center">archiiv.org</h3>
