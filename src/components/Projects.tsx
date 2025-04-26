@@ -19,7 +19,7 @@ const Projects: React.FC = () => {
       tags: ['TMDB API', 'Tailwind']
     },
     { 
-      image: 'https://d2w9rnfcy7mm78.cloudfront.net/34402378/original_685db9f2c0ed9e5a1422a792d3239e78.png?1739145981?bc=0',
+      image: 'https://d2w9rnfcy7mm78.cloudfront.net/36261799/original_c02155bf36d6c0bdbb3ce8e74aabc57c.png?1745636826?bc=0',
       title: 'Retro Emulator', 
       description: 'Browser-based retro game emulator',
       link: 'https://emulator.archiiv.org',
