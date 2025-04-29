@@ -5,18 +5,18 @@ import { Project } from '../types';
 const Projects: React.FC = () => {
   const projects: Project[] = [
     { 
-      image: 'https://d2w9rnfcy7mm78.cloudfront.net/36261746/original_f6d0493ddaca40478570d2a65a88dacf.png?1745636055?bc=0',
-      title: 'Slot Machine', 
-      description: 'A free-to-play slots machine',
-      link: 'https://slots.archiiv.org',
-      tags: ['React', 'Tailwind']
-    },
-    { 
       image: 'https://d2w9rnfcy7mm78.cloudfront.net/34402444/original_c13f0706ec93ccd7c95240aa95bd8c31.png?1739146270?bc=0',
       title: 'Altair Movies', 
       description: 'Movie discovery and recommendation platform',
       link: 'https://movies.archiiv.org',
       tags: ['TMDB API', 'Tailwind']
+    },
+    { 
+      image: 'https://d2w9rnfcy7mm78.cloudfront.net/36318909/original_15daf48384f5b11ddd4b5166ef7d0b0b.png?1745883217?bc=0',
+      title: 'Slot Machine', 
+      description: 'A free-to-play slot machine',
+      link: 'https://slots.archiiv.org',
+      tags: ['React', 'Tailwind']
     },
     { 
       image: 'https://d2w9rnfcy7mm78.cloudfront.net/36261799/original_c02155bf36d6c0bdbb3ce8e74aabc57c.png?1745636826?bc=0',
