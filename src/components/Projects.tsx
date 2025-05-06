@@ -12,18 +12,18 @@ const Projects: React.FC = () => {
       tags: ['TMDB API', 'Tailwind']
     },
     { 
-      image: 'https://d2w9rnfcy7mm78.cloudfront.net/36479206/original_b406f413fc59b30097b1378076038f4a.png?1746497074?bc=0',
-      title: 'Mollusk Movies', 
-      description: 'A movie-web implementation',
-      link: 'https://watch.mollusk.top',
-      tags: ['Typescript', 'Video Scrapers']
-    },
-    { 
       image: 'https://d2w9rnfcy7mm78.cloudfront.net/36318909/original_15daf48384f5b11ddd4b5166ef7d0b0b.png?1745883217?bc=0',
       title: 'Slot Machine', 
       description: 'A free-to-play slot machine',
       link: 'https://slots.archiiv.org',
       tags: ['React', 'Typescript']
+    },
+    { 
+      image: 'https://d2w9rnfcy7mm78.cloudfront.net/36479206/original_b406f413fc59b30097b1378076038f4a.png?1746497074?bc=0',
+      title: 'Mollusk Movies', 
+      description: 'A movie-web implementation',
+      link: 'https://watch.mollusk.top',
+      tags: ['Typescript', 'Video Scrapers']
     },
     { 
       image: 'https://d2w9rnfcy7mm78.cloudfront.net/36261799/original_c02155bf36d6c0bdbb3ce8e74aabc57c.png?1745636826?bc=0',
