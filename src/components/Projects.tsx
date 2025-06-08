@@ -5,11 +5,11 @@ import { Project } from '../types';
 const Projects: React.FC = () => {
   const projects: Project[] = [
     { 
-      image: 'https://d2w9rnfcy7mm78.cloudfront.net/34402444/original_c13f0706ec93ccd7c95240aa95bd8c31.png?1739146270?bc=0',
-      title: 'Altair Movies', 
-      description: 'Movie discovery and recommendation platform',
-      link: 'https://movies.archiiv.org',
-      tags: ['TMDB API', 'Tailwind']
+      image: 'https://d2w9rnfcy7mm78.cloudfront.net/37282611/original_9d7b827c99683f37c33faf51354eea3a.png?1749414779?bc=0',
+      title: 'mollusk', 
+      description: 'A completely free streaming service.',
+      link: 'https://mollusk.top',
+      tags: ['React', 'Typescript']
     },
     { 
       image: 'https://d2w9rnfcy7mm78.cloudfront.net/36318909/original_15daf48384f5b11ddd4b5166ef7d0b0b.png?1745883217?bc=0',
@@ -17,13 +17,6 @@ const Projects: React.FC = () => {
       description: 'A free-to-play slot machine',
       link: 'https://slots.archiiv.org',
       tags: ['React', 'Typescript']
-    },
-    { 
-      image: 'https://d2w9rnfcy7mm78.cloudfront.net/36479206/original_b406f413fc59b30097b1378076038f4a.png?1746497074?bc=0',
-      title: 'Mollusk Movies', 
-      description: 'A movie-web implementation',
-      link: 'https://watch.mollusk.top',
-      tags: ['Typescript', 'Video Scrapers']
     },
     { 
       image: 'https://d2w9rnfcy7mm78.cloudfront.net/36261799/original_c02155bf36d6c0bdbb3ce8e74aabc57c.png?1745636826?bc=0',
